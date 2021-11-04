@@ -1,5 +1,4 @@
 const db = require('../../data/db-config');
-const Scheme = require('./scheme-model');
 
 /*
   If `scheme_id` does not exist in the database:
